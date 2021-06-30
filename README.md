@@ -1,2 +1,2 @@
-# Cloud Native Fundamentals Scholarship Program
+# Cloud Native Fund amentals Scholarship Program
 

@@ -1,1 +1,2 @@
-# udacity-python
+# Cloud Native Fundamentals Scholarship Program
+
